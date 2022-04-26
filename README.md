@@ -57,7 +57,7 @@ output sum,carry;
 assign sum=(a ^ b ^ c);
 assign carry=((a&b)|(b&c)|(c&a));
 endmodule
-
+~~~
 ### Output:
 ## HALF ADDER
 ![output](h1.jpeg)
