@@ -64,7 +64,7 @@ endmodule
 ![output](h2.jpeg)
 ## FULL ADDER
 ![output](f1.jpeg)
-![output](f1.jpeg)
+![output](f2.jpeg)
 
 
 ### Result:
