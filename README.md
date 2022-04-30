@@ -62,6 +62,7 @@ endmodule
 ### Output:
 ## HALF ADDER
 #Logic Symbol & Truth Table:
+
 ![output](halfgate.png)
 ![output](haddtable.png)
 #RTL realization:
@@ -71,6 +72,7 @@ endmodule
 
 ## FULL ADDER
 #Logic Symbol & Truth Table:
+
 ![output](fullgate.png)
 ![output](faddtable.png)
 #RTL realization:
